@@ -1,5 +1,3 @@
-# Semantix_project
-
 # Segmentação de clientes (projeto encontrado no Kaggle)
 
 Segmentação de clientes é a subdivisão de um mercado em grupos discretos de clientes que compartilham características semelhantes. A segmentação de clientes pode ser um meio poderoso para identificar necessidades insatisfeitas de clientes. Usando os dados acima, as empresas podem superar a concorrência desenvolvendo produtos e serviços exclusivamente atraentes.
