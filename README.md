@@ -19,4 +19,5 @@ Os dados estão dispostos em uma tabela com uma linha para cada cliente, e uma c
 | Settlement size         |  Indica o tamanho da cidade que o cliente mora(0=pequena, 1=media, 2=grande )                                  | int64  |
 
 
-### Baixem o notebook e alterem o local de caminho para ler o csv na sua maquina, para uma melhor visualização usando a biblioteca plotly, a qual o github não tem suporte
+
+#### Baixem o notebook e alterem o local de caminho para ler o csv na sua maquina, para uma melhor visualização usando a biblioteca plotly, a qual o github não tem suporte
